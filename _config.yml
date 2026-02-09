@@ -153,4 +153,4 @@ deploy:
    repo:
      github: git@github.com:iwyang/hexo.git
      # fwq: git@142.171.177.173:hexo.git
-   branch: master
+   branch: gh-pages
