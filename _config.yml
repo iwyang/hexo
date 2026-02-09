@@ -151,6 +151,6 @@ nofollow:
 deploy:
    type: git
    repo:
-     github: git@github.com:iwyang/iwyang.github.io.git
+     github: git@github.com:iwyang/hexo.git
      # fwq: git@142.171.177.173:hexo.git
    branch: master
